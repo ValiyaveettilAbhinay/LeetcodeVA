@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ValiyaveettilAbhinay/LeetcodeVA/tree/master/0042-trapping-rain-water) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ValiyaveettilAbhinay/LeetcodeVA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ValiyaveettilAbhinay/LeetcodeVA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Hash Table
@@ -44,12 +45,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/ValiyaveettilAbhinay/LeetcodeVA/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/ValiyaveettilAbhinay/LeetcodeVA/tree/master/0042-trapping-rain-water) |
 ## Stack
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/ValiyaveettilAbhinay/LeetcodeVA/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/ValiyaveettilAbhinay/LeetcodeVA/tree/master/0042-trapping-rain-water) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/ValiyaveettilAbhinay/LeetcodeVA/tree/master/0032-longest-valid-parentheses) |
+## Two Pointers
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/ValiyaveettilAbhinay/LeetcodeVA/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/ValiyaveettilAbhinay/LeetcodeVA/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
