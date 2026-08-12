@@ -36,4 +36,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ValiyaveettilAbhinay/LeetcodeVA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## String
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/ValiyaveettilAbhinay/LeetcodeVA/tree/master/0032-longest-valid-parentheses) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/ValiyaveettilAbhinay/LeetcodeVA/tree/master/0032-longest-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/ValiyaveettilAbhinay/LeetcodeVA/tree/master/0032-longest-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/ValiyaveettilAbhinay/LeetcodeVA/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
