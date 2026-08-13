@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/ValiyaveettilAbhinay/LeetcodeVA/tree/master/0032-longest-valid-parentheses) |
+| [0394-decode-string](https://github.com/ValiyaveettilAbhinay/LeetcodeVA/tree/master/0394-decode-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/ValiyaveettilAbhinay/LeetcodeVA/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ValiyaveettilAbhinay/LeetcodeVA/tree/master/0042-trapping-rain-water) |
+| [0394-decode-string](https://github.com/ValiyaveettilAbhinay/LeetcodeVA/tree/master/0394-decode-string) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -72,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1310-xor-queries-of-a-subarray](https://github.com/ValiyaveettilAbhinay/LeetcodeVA/tree/master/1310-xor-queries-of-a-subarray) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/ValiyaveettilAbhinay/LeetcodeVA/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
