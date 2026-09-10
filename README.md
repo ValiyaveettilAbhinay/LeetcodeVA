@@ -18,10 +18,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1104-path-in-zigzag-labelled-binary-tree](https://github.com/ValiyaveettilAbhinay/LeetcodeVA/tree/master/1104-path-in-zigzag-labelled-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ValiyaveettilAbhinay/LeetcodeVA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
 | [1104-path-in-zigzag-labelled-binary-tree](https://github.com/ValiyaveettilAbhinay/LeetcodeVA/tree/master/1104-path-in-zigzag-labelled-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ValiyaveettilAbhinay/LeetcodeVA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Array
 |  |
 | ------- |
@@ -96,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/ValiyaveettilAbhinay/LeetcodeVA/tree/master/1386-cinema-seat-allocation) |
+## Depth-First Search
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ValiyaveettilAbhinay/LeetcodeVA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 <!---LeetCode Topics End-->
