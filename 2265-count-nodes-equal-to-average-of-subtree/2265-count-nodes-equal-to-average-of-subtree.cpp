@@ -11,25 +11,25 @@
  */
 class Solution {
 public:
+    int ans = 0;
 
-    pair<int, int> traverse(TreeNode *root,int &cnt){
+    pair<int, int> traverse(TreeNode *root){
         if(root == nullptr) return {0,0};
 
-        auto [leftSum,leftCount] = traverse(root->left,cnt);
-        auto [rightSum,rightCount] = traverse(root->right,cnt);
+        auto [leftSum,leftCount] = traverse(root->left);
+        auto [rightSum,rightCount] = traverse(root->right);
 
         int subTreeSum = leftSum + rightSum + root->val;
         int subTreeCount = leftCount + rightCount + 1;
 
-        if(subTreeSum/subTreeCount == root->val) cnt++;
+        if(subTreeSum/subTreeCount == root->val) ans++;
 
         return {subTreeSum,subTreeCount};
 
     }
 
     int averageOfSubtree(TreeNode* root) {
-        int count = 0;
-        traverse(root,count);
-        return count;
+        traverse(root);
+        return ans;
     }
 };
