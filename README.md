@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/ValiyaveettilAbhinay/LeetcodeVA/tree/master/0836-rectangle-overlap) |
 | [1104-path-in-zigzag-labelled-binary-tree](https://github.com/ValiyaveettilAbhinay/LeetcodeVA/tree/master/1104-path-in-zigzag-labelled-binary-tree) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ValiyaveettilAbhinay/LeetcodeVA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ValiyaveettilAbhinay/LeetcodeVA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -102,4 +103,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/ValiyaveettilAbhinay/LeetcodeVA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/ValiyaveettilAbhinay/LeetcodeVA/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
