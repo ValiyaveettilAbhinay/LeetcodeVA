@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/ValiyaveettilAbhinay/LeetcodeVA/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1386-cinema-seat-allocation](https://github.com/ValiyaveettilAbhinay/LeetcodeVA/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ValiyaveettilAbhinay/LeetcodeVA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ValiyaveettilAbhinay/LeetcodeVA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -51,12 +52,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/ValiyaveettilAbhinay/LeetcodeVA/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ValiyaveettilAbhinay/LeetcodeVA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## String
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/ValiyaveettilAbhinay/LeetcodeVA/tree/master/0032-longest-valid-parentheses) |
 | [0394-decode-string](https://github.com/ValiyaveettilAbhinay/LeetcodeVA/tree/master/0394-decode-string) |
+| [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/ValiyaveettilAbhinay/LeetcodeVA/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 ## Dynamic Programming
 |  |
 | ------- |
