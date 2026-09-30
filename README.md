@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/ValiyaveettilAbhinay/LeetcodeVA/tree/master/0032-longest-valid-parentheses) |
 | [0394-decode-string](https://github.com/ValiyaveettilAbhinay/LeetcodeVA/tree/master/0394-decode-string) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ValiyaveettilAbhinay/LeetcodeVA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/ValiyaveettilAbhinay/LeetcodeVA/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ValiyaveettilAbhinay/LeetcodeVA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Dynamic Programming
@@ -72,11 +73,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/ValiyaveettilAbhinay/LeetcodeVA/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ValiyaveettilAbhinay/LeetcodeVA/tree/master/0042-trapping-rain-water) |
 | [0394-decode-string](https://github.com/ValiyaveettilAbhinay/LeetcodeVA/tree/master/0394-decode-string) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ValiyaveettilAbhinay/LeetcodeVA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ValiyaveettilAbhinay/LeetcodeVA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/ValiyaveettilAbhinay/LeetcodeVA/tree/master/0032-longest-valid-parentheses) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ValiyaveettilAbhinay/LeetcodeVA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ValiyaveettilAbhinay/LeetcodeVA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Two Pointers
 |  |
