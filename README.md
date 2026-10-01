@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/ValiyaveettilAbhinay/LeetcodeVA/tree/master/0042-trapping-rain-water) |
 | [1310-xor-queries-of-a-subarray](https://github.com/ValiyaveettilAbhinay/LeetcodeVA/tree/master/1310-xor-queries-of-a-subarray) |
 | [1386-cinema-seat-allocation](https://github.com/ValiyaveettilAbhinay/LeetcodeVA/tree/master/1386-cinema-seat-allocation) |
+| [1539-kth-missing-positive-number](https://github.com/ValiyaveettilAbhinay/LeetcodeVA/tree/master/1539-kth-missing-positive-number) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ValiyaveettilAbhinay/LeetcodeVA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ValiyaveettilAbhinay/LeetcodeVA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ValiyaveettilAbhinay/LeetcodeVA/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -116,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/ValiyaveettilAbhinay/LeetcodeVA/tree/master/0836-rectangle-overlap) |
+## Binary Search
+|  |
+| ------- |
+| [1539-kth-missing-positive-number](https://github.com/ValiyaveettilAbhinay/LeetcodeVA/tree/master/1539-kth-missing-positive-number) |
 <!---LeetCode Topics End-->
