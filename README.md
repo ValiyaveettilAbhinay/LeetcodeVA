@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ValiyaveettilAbhinay/LeetcodeVA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ValiyaveettilAbhinay/LeetcodeVA/tree/master/0032-longest-valid-parentheses) |
 | [0394-decode-string](https://github.com/ValiyaveettilAbhinay/LeetcodeVA/tree/master/0394-decode-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ValiyaveettilAbhinay/LeetcodeVA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ValiyaveettilAbhinay/LeetcodeVA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ValiyaveettilAbhinay/LeetcodeVA/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ValiyaveettilAbhinay/LeetcodeVA/tree/master/0042-trapping-rain-water) |
 ## Stack
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ValiyaveettilAbhinay/LeetcodeVA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ValiyaveettilAbhinay/LeetcodeVA/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ValiyaveettilAbhinay/LeetcodeVA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ValiyaveettilAbhinay/LeetcodeVA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -121,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1539-kth-missing-positive-number](https://github.com/ValiyaveettilAbhinay/LeetcodeVA/tree/master/1539-kth-missing-positive-number) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/ValiyaveettilAbhinay/LeetcodeVA/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
