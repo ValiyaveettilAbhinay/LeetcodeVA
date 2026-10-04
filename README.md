@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/ValiyaveettilAbhinay/LeetcodeVA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ValiyaveettilAbhinay/LeetcodeVA/tree/master/0032-longest-valid-parentheses) |
 | [0394-decode-string](https://github.com/ValiyaveettilAbhinay/LeetcodeVA/tree/master/0394-decode-string) |
+| [0678-valid-parenthesis-string](https://github.com/ValiyaveettilAbhinay/LeetcodeVA/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ValiyaveettilAbhinay/LeetcodeVA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/ValiyaveettilAbhinay/LeetcodeVA/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ValiyaveettilAbhinay/LeetcodeVA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -70,12 +71,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/ValiyaveettilAbhinay/LeetcodeVA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ValiyaveettilAbhinay/LeetcodeVA/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ValiyaveettilAbhinay/LeetcodeVA/tree/master/0042-trapping-rain-water) |
+| [0678-valid-parenthesis-string](https://github.com/ValiyaveettilAbhinay/LeetcodeVA/tree/master/0678-valid-parenthesis-string) |
 ## Stack
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/ValiyaveettilAbhinay/LeetcodeVA/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ValiyaveettilAbhinay/LeetcodeVA/tree/master/0042-trapping-rain-water) |
 | [0394-decode-string](https://github.com/ValiyaveettilAbhinay/LeetcodeVA/tree/master/0394-decode-string) |
+| [0678-valid-parenthesis-string](https://github.com/ValiyaveettilAbhinay/LeetcodeVA/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ValiyaveettilAbhinay/LeetcodeVA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ValiyaveettilAbhinay/LeetcodeVA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
@@ -83,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/ValiyaveettilAbhinay/LeetcodeVA/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/ValiyaveettilAbhinay/LeetcodeVA/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/ValiyaveettilAbhinay/LeetcodeVA/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ValiyaveettilAbhinay/LeetcodeVA/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/ValiyaveettilAbhinay/LeetcodeVA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Two Pointers
@@ -111,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/ValiyaveettilAbhinay/LeetcodeVA/tree/master/0678-valid-parenthesis-string) |
 | [1386-cinema-seat-allocation](https://github.com/ValiyaveettilAbhinay/LeetcodeVA/tree/master/1386-cinema-seat-allocation) |
 ## Depth-First Search
 |  |
