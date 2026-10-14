@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1104-path-in-zigzag-labelled-binary-tree](https://github.com/ValiyaveettilAbhinay/LeetcodeVA/tree/master/1104-path-in-zigzag-labelled-binary-tree) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/ValiyaveettilAbhinay/LeetcodeVA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/ValiyaveettilAbhinay/LeetcodeVA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/ValiyaveettilAbhinay/LeetcodeVA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3870-count-commas-in-range](https://github.com/ValiyaveettilAbhinay/LeetcodeVA/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/ValiyaveettilAbhinay/LeetcodeVA/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ValiyaveettilAbhinay/LeetcodeVA/tree/master/3875-construct-uniform-parity-array-i) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/ValiyaveettilAbhinay/LeetcodeVA/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/ValiyaveettilAbhinay/LeetcodeVA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1386-cinema-seat-allocation](https://github.com/ValiyaveettilAbhinay/LeetcodeVA/tree/master/1386-cinema-seat-allocation) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/ValiyaveettilAbhinay/LeetcodeVA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ValiyaveettilAbhinay/LeetcodeVA/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Depth-First Search
 |  |
