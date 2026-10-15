@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1310-xor-queries-of-a-subarray](https://github.com/ValiyaveettilAbhinay/LeetcodeVA/tree/master/1310-xor-queries-of-a-subarray) |
 | [1386-cinema-seat-allocation](https://github.com/ValiyaveettilAbhinay/LeetcodeVA/tree/master/1386-cinema-seat-allocation) |
 | [1539-kth-missing-positive-number](https://github.com/ValiyaveettilAbhinay/LeetcodeVA/tree/master/1539-kth-missing-positive-number) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ValiyaveettilAbhinay/LeetcodeVA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ValiyaveettilAbhinay/LeetcodeVA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ValiyaveettilAbhinay/LeetcodeVA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ValiyaveettilAbhinay/LeetcodeVA/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1297-maximum-number-of-occurrences-of-a-substring](https://github.com/ValiyaveettilAbhinay/LeetcodeVA/tree/master/1297-maximum-number-of-occurrences-of-a-substring) |
 | [1386-cinema-seat-allocation](https://github.com/ValiyaveettilAbhinay/LeetcodeVA/tree/master/1386-cinema-seat-allocation) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ValiyaveettilAbhinay/LeetcodeVA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ValiyaveettilAbhinay/LeetcodeVA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ValiyaveettilAbhinay/LeetcodeVA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/ValiyaveettilAbhinay/LeetcodeVA/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -148,4 +150,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/ValiyaveettilAbhinay/LeetcodeVA/tree/master/0022-generate-parentheses) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ValiyaveettilAbhinay/LeetcodeVA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ValiyaveettilAbhinay/LeetcodeVA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
